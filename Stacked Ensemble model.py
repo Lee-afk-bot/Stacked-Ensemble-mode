@@ -201,6 +201,6 @@ def main_optimization_workflow(csv_file_path):
     return multi_target_model
 
 if __name__ == "__main__":
-    # 请替换为您的数据路径
-    # main_optimization_workflow('augmented_data.csv')
+   "D:\硕士\晶须数据\新建 Microsoft Excel 工作表.xlsx"
+
     pass
